@@ -1,0 +1,333 @@
+.desktop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.desktop .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+
+.desktop .frame {
+    display: inline-flex;
+    align-items: center;
+    gap: 349px;
+    position: absolute;
+    top: 61px;
+    left: 34px;
+}
+
+.desktop .frame-wrapper {
+    display: inline-flex;
+    align-items: center;
+    gap: 355.78px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.desktop .frame-2 {
+    display: flex;
+    width: 933.41px;
+    align-items: center;
+    justify-content: space-around;
+    gap: 452.72px;
+    position: relative;
+}
+
+.desktop .frame-3 {
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.desktop .logo-nimiaoo {
+    position: relative;
+    width: 75.95px;
+    height: 55px;
+}
+
+.desktop .frame-4 {
+    display: inline-flex;
+    align-items: center;
+    gap: 26.31px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.desktop .frame-5 {
+    display: flex;
+    width: 133.19px;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.desktop .text-wrapper {
+    position: relative;
+    width: 118.39px;
+    margin-top: -0.82px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000ba;
+    font-size: 19.7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .img {
+    position: relative;
+    width: 19.73px;
+    height: 19.73px;
+    margin-left: -4.93px;
+}
+
+.desktop .frame-6 {
+    display: flex;
+    width: 148.81px;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.desktop .text-wrapper-2 {
+    position: relative;
+    width: 138.94px;
+    margin-top: -0.82px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000ba;
+    font-size: 19.7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .frame-7 {
+    position: relative;
+    width: 19.73px;
+    height: 19.73px;
+    margin-left: -9.87px;
+}
+
+.desktop .frame-8 {
+    display: flex;
+    width: 160.32px;
+    align-items: center;
+    gap: 3.29px;
+    position: relative;
+}
+
+.desktop .text-wrapper-3 {
+    position: relative;
+    width: 147.99px;
+    margin-top: -0.82px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000ba;
+    font-size: 19.7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .frame-9 {
+    position: relative;
+    width: 19.73px;
+    height: 19.73px;
+    margin-right: -10.69px;
+}
+
+.desktop .frame-10 {
+    display: flex;
+    width: 155.39px;
+    align-items: center;
+    gap: 3.29px;
+    position: relative;
+}
+
+.desktop .text-wrapper-4 {
+    position: relative;
+    width: 142.23px;
+    margin-top: -0.82px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000ba;
+    font-size: 19.7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .frame-11 {
+    position: relative;
+    width: 19.73px;
+    height: 19.73px;
+    margin-right: -9.87px;
+}
+
+.desktop .frame-12 {
+    display: flex;
+    width: 131.54px;
+    align-items: center;
+    gap: 3.29px;
+    position: relative;
+}
+
+.desktop .text-wrapper-5 {
+    position: relative;
+    width: 115.92px;
+    margin-top: -0.82px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000ba;
+    font-size: 19.7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .frame-13 {
+    position: relative;
+    width: 19.73px;
+    height: 19.73px;
+    margin-right: -7.40px;
+}
+
+.desktop .frame-14 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 16px;
+    left: 910px;
+}
+
+.desktop .frame-15 {
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.desktop .div-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 225px;
+    align-items: flex-start;
+    position: absolute;
+    top: 150px;
+    left: 96px;
+}
+
+.desktop .text-wrapper-6 {
+    position: relative;
+    width: 400px;
+    margin-top: -1.00px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .frame-16 {
+    position: absolute;
+    width: 1176px;
+    height: 655px;
+    top: 261px;
+    left: 132px;
+}
+
+.desktop .frame-17 {
+    display: inline-flex;
+    align-items: center;
+    gap: 3.47px;
+    position: absolute;
+    top: 928px;
+    left: 1256px;
+}
+
+.desktop .frame-18 {
+    display: inline-flex;
+    align-items: center;
+    gap: 6.94px;
+    padding: 6.94px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.desktop .frame-19 {
+    display: flex;
+    width: 51.33px;
+    height: 51.33px;
+    align-items: center;
+    gap: 4.07px;
+    padding: 11.41px 17.52px;
+    position: relative;
+    transform: rotate(180deg);
+}
+
+.desktop .ellipse-wrapper {
+    display: inline-flex;
+    align-items: center;
+    gap: 4.07px;
+    padding: 4.07px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.desktop .ellipse {
+    position: relative;
+    width: 43.18px;
+    height: 43.18px;
+    background-color: #f3b95f80;
+    border-radius: 21.59px;
+}
+
+.desktop .vector {
+    position: relative;
+    width: 16.3px;
+    height: 28.11px;
+    transform: rotate(-180deg);
+}
+
+.desktop .frame-20 {
+    display: flex;
+    width: 51.33px;
+    height: 51.33px;
+    align-items: center;
+    gap: 4.07px;
+    padding: 11.41px 17.52px;
+    position: relative;
+}
+
+.desktop .ellipse-2 {
+    position: relative;
+    width: 43.18px;
+    height: 43.18px;
+    background-color: #f3b95f;
+    border-radius: 21.59px;
+}
+
+.desktop .vector-2 {
+    position: relative;
+    width: 16.3px;
+    height: 28.11px;
+}
+
+.produk{
+    padding-left: 60px;
+    padding-bottom: 60px;
+}
+
+.frame-16 .a:hover{
+    background: #000;
+    transform: scale(1.05,1);
+    cursor: pointer;
+}

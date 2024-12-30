@@ -1,0 +1,590 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+.desktop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-self: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.desktop .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+
+.desktop .frame {
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+    top: 33px;
+    left: 34px;
+}
+
+.desktop .frame-2 {
+    display: flex;
+    width: 1282px;
+    align-items: center;
+    gap: 355.78px;
+    position: relative;
+}
+
+.desktop .frame-wrapper {
+    display: flex;
+    width: 708px;
+    align-items: center;
+    position: relative;
+}
+
+.desktop .frame-3 {
+    display: inline-flex;
+    align-items: center;
+    gap: 32px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.desktop .logo-nimiaoo {
+    position: relative;
+    width: 75.95px;
+    height: 55px;
+}
+
+.desktop .frame-4 {
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.desktop .frame-5 {
+    display: flex;
+    width: 185px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.desktop .text-wrapper {
+    position: relative;
+    width: 169px;
+    margin-top: -0.82px;
+    margin-left: -1.87px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 19.7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .img {
+    position: relative;
+    width: 19.73px;
+    height: 19.73px;
+    margin-right: -1.87px;
+}
+
+.desktop .frame-6 {
+    display: flex;
+    width: 160.32px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.desktop .about-us {
+    position: relative;
+    width: 147.99px;
+    margin-top: -0.82px;
+    margin-left: -1.70px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 19.7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .frame-7 {
+    position: relative;
+    width: 19.73px;
+    height: 19.73px;
+    margin-right: -1.70px;
+    margin-left: -4px;
+}
+
+.desktop .frame-8 {
+    display: flex;
+    width: 155.39px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.desktop .text-wrapper-2 {
+    position: relative;
+    width: 142.23px;
+    margin-top: -0.82px;
+    margin-left: -1.29px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 19.7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .frame-9 {
+    position: relative;
+    width: 19.73px;
+    height: 19.73px;
+    margin-right: -1.29px;
+    margin-left: -4px;
+}
+
+.desktop .frame-10 {
+    position: relative;
+    width: 133.19px;
+}
+
+.desktop .frame-11 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 16px;
+    left: 910px;
+}
+
+.desktop .frame-12 {
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.desktop .overlap-group {
+    position: absolute;
+    width: 1344px;
+    height: 858px;
+    top: 109px;
+    left: 48px;
+    background-color: #f3b95f;
+    border-radius: 20px;
+}
+
+.desktop .PHOTO {
+    position: absolute;
+    width: 1229px;
+    height: 732px;
+    top: 59px;
+    left: 57px;
+    object-fit: cover;
+}
+
+.desktop .div-wrapper {
+    display: inline-flex;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 6.5px;
+    position: absolute;
+    top: 812px;
+    left: 636px;
+}
+
+.desktop .frame-13 {
+    display: inline-flex;
+    align-items: center;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.desktop .ellipse {
+    background-color: #000000;
+    position: relative;
+    width: 13px;
+    height: 13px;
+    border-radius: 6.5px;
+}
+
+.desktop .ellipse-2 {
+    background-color: #00000066;
+    position: relative;
+    width: 13px;
+    height: 13px;
+    border-radius: 6.5px;
+}
+
+.row{
+    
+    display: flex;
+    align-items: center;
+    
+}
+.small_container{
+    margin-top: 250px;
+    justify-self: center;
+    
+    align-items: center;
+}
+.Col-3{
+    
+    justify-content: center;
+    flex-basis: 30%;
+    padding: 100px;
+    min-width: 200px;
+    margin-bottom: 30px;
+    
+}
+
+
+
+h3{
+    margin-left: 150px;
+    size: 100px;
+}
+
+.rating{
+    width: 150px
+}
+
+h1{
+    
+    font-size: 40px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+}
+
+.sampingan{
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+/* footer */
+.frame1 {
+    position: relative;
+    left: 0px;
+    width: 2800px;
+    height: 331px;
+    background-color: #000000;
+}
+
+.frame1 .div1 {
+    position: absolute;
+    width: 1372px;
+    height: 213px;
+    top: 40px;
+    left: 34px;
+}
+
+.frame1 .div-21 {
+    position: absolute;
+    width: 788px;
+    height: 213px;
+    top: 0;
+    left: 0;
+}
+
+.frame1 .frame-wrapper1 {
+    position: absolute;
+    width: 245px;
+    height: 213px;
+    top: 0;
+    left: 263px;
+}
+
+.frame1 .div-31 {
+    position: relative;
+    height: 210px;
+}
+
+.frame1 .text-wrapper1 {
+    position: absolute;
+    width: 52px;
+    height: 16px;
+    top: 3px;
+    left: 0;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0.50px;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.frame1 .text-wrapper-21 {
+    position: absolute;
+    width: 68px;
+    height: 14px;
+    top: 33px;
+    left: 0;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.frame1 .text-wrapper-31 {
+    position: absolute;
+    width: 56px;
+    height: 14px;
+    top: 64px;
+    left: 0;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.frame1 .div-wrapper1 {
+    position: absolute;
+    width: 245px;
+    height: 213px;
+    top: 0;
+    left: 6px;
+}
+
+.frame1 .text-wrapper-41 {
+    position: absolute;
+    width: 73px;
+    height: 14px;
+    top: 64px;
+    left: 0;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.frame1 .text-wrapper-51 {
+    position: absolute;
+    width: 114px;
+    height: 14px;
+    top: 95px;
+    left: 0;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.frame1 .text-wrapper-61 {
+    position: absolute;
+    width: 92px;
+    height: 14px;
+    top: 126px;
+    left: 0;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.frame1 .frame-wrapper-21 {
+    position: absolute;
+    width: 430px;
+    height: 248px;
+    top: 0;
+    left: 520px;
+}
+
+.frame1 .div-41 {
+    position: relative;
+    width: 245px;
+    height: 148px;
+}
+
+.frame1 .about-NMIAOO {
+    position: absolute;
+    width: 96px;
+    height: 16px;
+    top: 3px;
+    left: 0;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0.50px;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.frame1 .welcome-to-nmiaoo {
+    position: absolute;
+    width: 404px;
+    top: 33px;
+    left: 0;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 28px;
+}
+
+.frame1 .group1 {
+    position: absolute;
+    width: 122px;
+    height: 116px;
+    top: 48px;
+    left: 1216px;
+}
+
+.frame1 .group1 .icon{
+    width: 40px;
+    padding: 3px;
+}
+
+.frame1 .div-51 {
+    position: absolute;
+    width: 1372px;
+    height: 62px;
+    top: 269px;
+    left: 34px;
+}
+
+.frame1 .div-61 {
+    position: absolute;
+    width: 672px;
+    height: 32px;
+    top: 12px;
+    left: 8px;
+}
+
+.frame1 .auto-layout {
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 8px;
+    padding: 0px 8.03px 0px 0px;
+    position: absolute;
+    top: 17px;
+    left: 0;
+}
+
+.frame1 .img {
+    position: relative;
+    width: 18px;
+    height: 15px;
+}
+
+.frame1 .text-wrapper-71 {
+    position: relative;
+    width: fit-content;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 12px;
+    white-space: nowrap;
+}
+
+.frame1 .p {
+    position: absolute;
+    width: 214px;
+    height: 14px;
+    top: 18px;
+    left: 90px;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #7e7e7e;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: 12px;
+    white-space: nowrap;
+}
+
+.frame1 .div-71 {
+    position: absolute;
+    width: 680px;
+    height: 46px;
+    top: 16px;
+    left: 686px;
+}
+
+.frame1 .text-wrapper-81 {
+    position: absolute;
+    width: 38px;
+    height: 14px;
+    top: 16px;
+    left: 304px;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #7e7e7e;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.frame1 .text-wrapper-91 {
+    width: 74px;
+    left: 370px;
+    position: absolute;
+    height: 14px;
+    top: 16px;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #7e7e7e;
+    font-size: 12px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.frame1 .text-wrapper-101 {
+    width: 71px;
+    left: 471px;
+    position: absolute;
+    height: 14px;
+    top: 16px;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #7e7e7e;
+    font-size: 12px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.frame1 .text-wrapper-111 {
+    position: absolute;
+    width: 114px;
+    height: 14px;
+    top: 16px;
+    left: 570px;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #7e7e7e;
+    font-size: 11px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
